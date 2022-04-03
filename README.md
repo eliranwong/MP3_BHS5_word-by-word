@@ -1,5 +1,5 @@
 # MP3_BHS5_word-by-word
-MP3 audio files of each word in Hebrew bible BHS5
+MP3 audio files of each word in the Hebrew bible BHS5
 
 # License
 
@@ -19,3 +19,9 @@ This is made availalbe by ETCBC, licensed under a Creative Commons Attribution-N
 Source of ETCBC data: github.com/ETCBC/text-fabric-data/tree/master/hebrew/etcbc4c
 
 (more information at: shebanq.ancient-data.org/sources)
+
+# Integration into Unique Bible App
+
+In order to facilitate learning the Hebrew bible, audio files here are created for integration into Unique Bible App.  Uses can easily select a Hebrew word or lexeme and listen to its audio.
+
+https://github.com/eliranwong/UniqueBible
