@@ -1,6 +1,10 @@
 # MP3_BHS5_word-by-word
 MP3 audio files of each word in the Hebrew bible BHS5
 
+Each filename is suffixed to match the word ID number of ETCBC BHSA version 4c.
+
+Lexeme audio files are prefixed with "lex_".
+
 # License
 
 Audio files provided here are part of our project Open Hebrew Bible, licensed under:
