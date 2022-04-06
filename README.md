@@ -1,4 +1,4 @@
-<img width="1440" alt="Hebrew_word-by-word" src="https://user-images.githubusercontent.com/25262722/161801630-cc92fd2a-a39a-4423-8807-630bca186f30.png">
+<img width="1440" alt="word-by-word_Hebrew_audio" src="https://user-images.githubusercontent.com/25262722/162021782-8a54c72a-0900-403f-bc45-6b7b59f4c3d1.png">
 
 # MP3_BHS5_word-by-word
 MP3 audio files of each word in the Hebrew bible BHS5
