@@ -38,4 +38,4 @@ https://github.com/eliranwong/UniqueBible/wiki/Word-by-word-Hebrew-and-Greek-Aud
 
 # Online Demonstration
 
-https://bible.gospelchurch.uk/index.html?cmd=BIBLE%3A%3A%3AMOB%3A%3A%3AGen+1
+https://bible.gospelchurch.uk/index.html?cmd=BIBLE%3A%3A%3AMIB%3A%3A%3AGen+1
